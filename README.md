@@ -9,4 +9,4 @@ Packages needed for program: pandas, pandas_datareader, scipy
 4. Pulls FRED ticker data from FRED site
 5. Loops through data and finds total number of Nan values in each column to remove
 6. Creates % Change columns based on prior period
-7. Calculates the R-squared for each possible combination and prints the two variables with the highest R-squared value
+7. Calculates the % Change R-squared for each possible combination and prints the two variables with the highest R-squared value
