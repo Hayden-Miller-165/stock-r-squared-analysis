@@ -1,7 +1,5 @@
 #! python3
 """
-Created on Tue Jul 21 19:10:35 2020
-
 R-Squared Calculation Program
 
 Objective: Calculate and find the highest R-squared of any two variables. Variables
@@ -14,7 +12,6 @@ Inputs: Stock or Index tickers in yahootickers list (no limit),
 Output: The two tickers with the highest calculated R-squared 
     and the corresponding R-square value.
 
-@author: HM
 """
 
 
